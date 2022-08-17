@@ -1,7 +1,7 @@
 ### Hi, I'm Matheus Lima 👋
 
 - 🔭 Front-End Lead Dell | Dell Technologies
-- 🌱 ReactJs | Flutter | Java
+- 🌱 ReactJs | Java | Go
 
 <div align="center">
   <a href="https://github.com/Mattews08">
