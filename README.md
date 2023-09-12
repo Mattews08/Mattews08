@@ -1,6 +1,6 @@
 ### Hi, I'm Matheus Lima 👋
 
-- 🔭 Front-End Lead Dell | Dell Technologies
+- 🔭 Front-End
 - 🌱 ReactJs | Java | Go
 
 <div align="center">
