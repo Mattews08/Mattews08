@@ -1,6 +1,6 @@
 ### Hi, I'm Matheus Lima 👋
 
-- 🔭 Front-End
-- 🌱 ReactJs | Java | Go
+- 🔭 Full-Stack Developer
+- 🌱 ReactJs | Java | Go | Angular
 
 
