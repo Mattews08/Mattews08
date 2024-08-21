@@ -1,6 +1,6 @@
 ### Hi, I'm Matheus Lima 👋
 
 - 🔭 Full-Stack Developer
-- 🌱 ReactJs | Java | Go | Angular
+- 🌱 ReactJs | Typescript | Java | Go | React Native | NextJS | Angular
 
 
